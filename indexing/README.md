@@ -9,6 +9,11 @@ This is the initial version of indexing the Bioarxiv, which focuses on doing it 
 * [Prepubmed monthly stats](http://www.prepubmed.org/monthly_stats/)
 	* [Bioarxiv Prepub](https://github.com/OmnesRes/prepub/blob/master/biorxiv/biorxiv.py)
 * [A Twitter bot to find the most interesting bioRxiv preprints](https://gigabaseorgigabyte.wordpress.com/2017/08/08/a-twitter-bot-to-find-the-most-interesting-biorxiv-preprints/)
+* [Biorxiv Sanity](https://github.com/gokceneraslan/biorxiv-sanity-preserver)
+* [Text mining bioarxiv-sanity](https://www.biorxiv.org/content/early/2017/07/11/162099)
+* [Get stuff from the Arxiv as well](https://arxiv.org/abs/1603.09195)
+   * Get the entire q-bio side of things
+* Also get all of pubmed
 
 
 ### Ingestion
