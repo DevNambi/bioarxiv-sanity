@@ -1,0 +1,29 @@
+{  
+   'Records':[  
+      {  
+         'messageId':'af49fc52-60ad-499f-944b-ead0a0e3b00c',
+         'receiptHandle':'AQEBLhtg/qkq+EaJmL5Ezbu12NuG0iwYD19gBXtBOfQyy4FRf3CnBLxX/kkOb5eQ8SWCsiPb7+zVaNt7uFPSQ2A4IIb848VcZi6HuOYSALEZlzjrqofTtSGn8olVmBXqR+d21+s/TPFckjbIQzCJ7cisiKh+VjJ9bj16rXTYD+vB3cM/jjCWKDtcElhP7l8NiIEE1R0ukZ0supTghYExaBY1sU6O6O/aWbWR5pBU2vLYryyN5DGMGTyUsiXdJQ8gPuNccs+XewXX3fd/unRYIeFy20yO118vOg+4ifYKE+oDqiUuJKrB0ZYBrN9NyMSDcyO8Zmw2jzGoa9U2LxhcM2ay5h6c16aY4jw11mZzLvogQPsWQ06twecvCB6T6s0cfbjkct4N+AxqykSh5fOoNnwd4zROIRqFBKdfgwhhgE79raE=',
+
+
+         'body':'{"biophysics": "https://www.biorxiv.org/search/subject_collection_code%3ABiophysics%20numresults%3A100%20sort%3Apublication-date%20direction%3Aascending%20format_result%3Acondensed"}',
+         
+
+         'attributes':{  
+            'ApproximateReceiveCount':'1',
+            'SentTimestamp':'1557512781424',
+            'SenderId':'AROAIWWPYSJRKGRFOQ66U:bioarxiv-category-filler',
+            'ApproximateFirstReceiveTimestamp':'1557512781426'
+         },
+         'messageAttributes':{  
+
+         },
+         'md5OfBody':'3a074f9f867f1b61a5b0fca1e8e77c6e',
+         'eventSource':'aws:sqs',
+         'eventSourceARN':'arn:aws:sqs:us-west-2:778552047182:bioarxiv-sanity-categories',
+         'awsRegion':'us-west-2'
+      }
+   ]
+}
+
+
+eventbody={'cell-biology': 'https://www.biorxiv.org/search/subject_collection_code%3ACell%20Biology%20numresults%3A100%20sort%3Apublication-date%20direction%3Aascending%20format_result%3Acondensed'}
